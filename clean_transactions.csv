@@ -1,0 +1,3 @@
+transaction_id,purchase_date,revenue,customer_email,status
+TXN-0001,2023-01-15,1250.5,john@example.com,completed
+TXN-0014,2023-04-10,800.0,jack@domain.com,canceled

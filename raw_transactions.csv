@@ -1,0 +1,16 @@
+transaction_id,purchase_date,revenue,customer_email,status
+TXN-0001,2023-01-15,"$1,250.50",john@example.com,Completed
+TXN-0002,01/16/2023,USD 500,JANE@EXAMPLE.COM,completed 
+TXN-0003,Jan 17th 2023, 450.00 ,bob.smith@domain,Pending
+TXN-0004,2023.01.18,invalid,alice@domain.com,  Failed
+TXN-0005,,"1,000",,Completed
+TXN-0006,2023-01-20,,charlie@web.org,Canceled
+TXN-0007,invalid_date,$890.99,david@web,Completed
+TXN-0008,12-31-2022,750..00,eve@domain.com,
+TXN-0009,2023/02/01,EUR 600,frank@web.org,pending
+TXN-0010,02-02-23,99.99,grace@domain.com,COMPLETED
+TXN-0011,2023-02-05 14:30:00,"1,200.50",henry@domain.com,Failed
+TXN-0012,"March 1st, 2023",$ 340.00, IVY@WEB.ORG ,  completed
+TXN-0013,,NaN,,Pending
+TXN-0014,2023-04-10, 800.00 ,jack@domain.com,CANCELED
+TXN-0015,15-04-2023,1500,kyle.example.com,Completed
